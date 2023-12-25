@@ -1,0 +1,15 @@
+dataset:Amazon-Computers, net:GCN,bacc: 86.85, f1: 75.72
+dataset:Amazon-Computers, net:GAT,bacc: 84.95, f1: 71.81
+dataset:Amazon-Computers, net:SAGE,bacc: 89.58, f1: 78.75
+dataset:Amazon-Computers, net:GCN,bacc: 86.57, f1: 75.14 
+dataset:Amazon-Computers, net:GAT,bacc: 84.12, f1: 73.04 
+dataset:Amazon-Computers, net:SAGE,bacc: 89.50, f1: 78.05 
+dataset:Amazon-Computers, net:GCN,bacc: 86.46, f1: 75.64 
+dataset:Amazon-Computers, net:GAT,bacc: 84.13, f1: 70.22 
+dataset:Amazon-Computers, net:SAGE,bacc: 89.58, f1: 78.08 
+dataset:Amazon-Computers, net:GCN,bacc: 86.82, f1: 76.76 
+dataset:Amazon-Computers, net:GAT,bacc: 83.31, f1: 70.47 
+dataset:Amazon-Computers, net:SAGE,bacc: 89.54, f1: 76.93 
+dataset:Amazon-Computers, net:GCN,bacc: 86.49, f1: 75.01 
+dataset:Amazon-Computers, net:GAT,bacc: 84.38, f1: 70.11 
+dataset:Amazon-Computers, net:SAGE,bacc: 89.27, f1: 76.17 

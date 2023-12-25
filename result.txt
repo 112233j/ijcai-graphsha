@@ -1,0 +1,122 @@
+dataset:CiteSeer, net:GCN, ratio:10.0, acc: 72.70, bacc: 69.21, f1: 69.40
+dataset:CiteSeer, net:GAT, ratio:10.0, acc: 72.70, bacc: 68.65, f1: 68.72
+dataset:CiteSeer, net:SAGE, ratio:10.0, acc: 68.40, bacc: 66.29, f1: 65.94
+dataset:PubMed, net:GCN, ratio:10.0, acc: 84.10, bacc: 82.83, f1: 82.69
+dataset:PubMed, net:GAT, ratio:10.0, acc: 81.70, bacc: 80.69, f1: 80.26
+dataset:PubMed, net:SAGE, ratio:10.0, acc: 80.40, bacc: 79.85, f1: 79.17
+dataset:Amazon-Computers, net:GCN, ratio:10.0, acc: 80.25, bacc: 86.85, f1: 75.72
+dataset:Amazon-Computers, net:GAT, ratio:10.0, acc: 79.59, bacc: 84.95, f1: 71.81
+dataset:Amazon-Computers, net:SAGE, ratio:10.0, acc: 85.25, bacc: 89.58, f1: 78.75
+dataset:Cora, net:GCN, ratio:10.0, acc: 85.30, bacc: 84.25, f1: 83.69
+dataset:Cora, net:GAT, ratio:10.0, acc: 84.90, bacc: 83.62, f1: 83.04
+dataset:CiteSeer, net:GCN, ratio:10.0, acc: 72.30, bacc: 68.70, f1: 68.88 
+dataset:CiteSeer, net:GAT, ratio:10.0, acc: 74.00, bacc: 69.97, f1: 70.05 
+dataset:CiteSeer, net:SAGE, ratio:10.0, acc: 70.40, bacc: 67.77, f1: 67.52 
+dataset:PubMed, net:GCN, ratio:10.0, acc: 84.20, bacc: 83.12, f1: 82.95 
+dataset:PubMed, net:GAT, ratio:10.0, acc: 83.70, bacc: 83.56, f1: 82.58 
+dataset:PubMed, net:SAGE, ratio:10.0, acc: 81.80, bacc: 80.45, f1: 80.37 
+dataset:Amazon-Computers, net:GCN, ratio:10.0, acc: 80.76, bacc: 86.57, f1: 75.14 
+dataset:Amazon-Computers, net:GAT, ratio:10.0, acc: 79.59, bacc: 84.12, f1: 73.04 
+dataset:Amazon-Computers, net:SAGE, ratio:10.0, acc: 85.35, bacc: 89.50, f1: 78.05 
+dataset:CiteSeer, net:GCN, ratio:10.0, acc: 73.40, bacc: 69.89, f1: 70.11 
+dataset:CiteSeer, net:GAT, ratio:10.0, acc: 73.30, bacc: 68.97, f1: 69.11 
+dataset:CiteSeer, net:SAGE, ratio:10.0, acc: 70.40, bacc: 67.77, f1: 67.52 
+dataset:PubMed, net:GCN, ratio:10.0, acc: 84.00, bacc: 82.65, f1: 82.54 
+dataset:PubMed, net:GAT, ratio:10.0, acc: 81.10, bacc: 80.10, f1: 79.72 
+dataset:PubMed, net:SAGE, ratio:10.0, acc: 81.80, bacc: 80.45, f1: 80.37 
+dataset:Amazon-Computers, net:GCN, ratio:10.0, acc: 79.93, bacc: 86.46, f1: 75.64 
+dataset:Amazon-Computers, net:GAT, ratio:10.0, acc: 78.56, bacc: 84.13, f1: 70.22 
+dataset:Amazon-Computers, net:SAGE, ratio:10.0, acc: 85.30, bacc: 89.58, f1: 78.08 
+dataset:CiteSeer, net:GCN, ratio:10.0, acc: 73.20, bacc: 69.25, f1: 69.47 
+dataset:CiteSeer, net:GAT, ratio:10.0, acc: 73.20, bacc: 69.13, f1: 69.15 
+dataset:CiteSeer, net:SAGE, ratio:10.0, acc: 70.40, bacc: 67.77, f1: 67.52 
+dataset:PubMed, net:GCN, ratio:10.0, acc: 84.60, bacc: 83.44, f1: 83.35 
+dataset:PubMed, net:GAT, ratio:10.0, acc: 81.20, bacc: 80.18, f1: 79.77 
+dataset:PubMed, net:SAGE, ratio:10.0, acc: 81.80, bacc: 80.45, f1: 80.37 
+dataset:Amazon-Computers, net:GCN, ratio:10.0, acc: 82.01, bacc: 86.82, f1: 76.76 
+dataset:Amazon-Computers, net:GAT, ratio:10.0, acc: 77.82, bacc: 83.31, f1: 70.47 
+dataset:Amazon-Computers, net:SAGE, ratio:10.0, acc: 83.82, bacc: 89.54, f1: 76.93 
+dataset:CiteSeer, net:GCN, ratio:10.0, acc: 73.60, bacc: 69.77, f1: 69.99 
+dataset:CiteSeer, net:GAT, ratio:10.0, acc: 73.30, bacc: 69.19, f1: 69.28 
+dataset:CiteSeer, net:SAGE, ratio:10.0, acc: 70.70, bacc: 68.29, f1: 67.93 
+dataset:PubMed, net:GCN, ratio:10.0, acc: 84.30, bacc: 82.89, f1: 82.86 
+dataset:PubMed, net:GAT, ratio:10.0, acc: 81.20, bacc: 80.18, f1: 79.77 
+dataset:PubMed, net:SAGE, ratio:10.0, acc: 81.80, bacc: 80.45, f1: 80.37 
+dataset:Amazon-Computers, net:GCN, ratio:10.0, acc: 79.09, bacc: 86.49, f1: 75.01 
+dataset:Amazon-Computers, net:GAT, ratio:10.0, acc: 78.60, bacc: 84.38, f1: 70.11 
+dataset:Amazon-Computers, net:SAGE, ratio:10.0, acc: 83.46, bacc: 89.27, f1: 76.17 
+dataset:CiteSeer, net:GCN, ratio:10.0, acc: 72.60, bacc: 69.11, f1: 69.24 
+dataset:CiteSeer, net:GAT, ratio:10.0, acc: 73.80, bacc: 69.53, f1: 69.65 
+dataset:CiteSeer, net:SAGE, ratio:10.0, acc: 70.40, bacc: 67.77, f1: 67.52 
+dataset:PubMed, net:GCN, ratio:10.0, acc: 85.30, bacc: 83.90, f1: 84.01 
+dataset:PubMed, net:GAT, ratio:10.0, acc: 81.20, bacc: 80.18, f1: 79.77 
+dataset:PubMed, net:SAGE, ratio:10.0, acc: 81.80, bacc: 80.45, f1: 80.37 
+dataset:Amazon-Computers, net:GCN, ratio:10.0, acc: 81.38, bacc: 86.75, f1: 76.08 
+dataset:Amazon-Computers, net:GAT, ratio:10.0, acc: 78.37, bacc: 83.74, f1: 70.62 
+dataset:Amazon-Computers, net:SAGE, ratio:10.0, acc: 83.47, bacc: 89.50, f1: 76.40 
+
+
+
+dataset:CiteSeer, net:GCN, ratio:20.0, acc: 71.40, bacc: 67.20, f1: 67.08 
+dataset:CiteSeer, net:GAT, ratio:20.0, acc: 70.70, bacc: 66.55, f1: 66.27 
+dataset:CiteSeer, net:SAGE, ratio:20.0, acc: 69.10, bacc: 66.42, f1: 66.21 
+dataset:PubMed, net:GCN, ratio:20.0, acc: 79.90, bacc: 77.15, f1: 77.57 
+dataset:PubMed, net:GAT, ratio:20.0, acc: 79.80, bacc: 78.12, f1: 78.18 
+dataset:PubMed, net:SAGE, ratio:20.0, acc: 79.20, bacc: 76.79, f1: 77.36 
+dataset:Amazon-Computers, net:GCN, ratio:20.0, acc: 81.42, bacc: 86.85, f1: 75.37 
+dataset:Amazon-Computers, net:GAT, ratio:20.0, acc: 75.33, bacc: 82.04, f1: 67.18 
+dataset:Amazon-Computers, net:SAGE, ratio:20.0, acc: 85.71, bacc: 88.90, f1: 78.79 
+dataset:CiteSeer, net:GCN, ratio:20.0, acc: 69.70, bacc: 65.42, f1: 65.29 
+dataset:CiteSeer, net:GAT, ratio:20.0, acc: 71.20, bacc: 67.44, f1: 67.36 
+dataset:CiteSeer, net:SAGE, ratio:20.0, acc: 67.40, bacc: 64.46, f1: 64.43 
+dataset:PubMed, net:GCN, ratio:20.0, acc: 80.20, bacc: 77.81, f1: 78.17 
+dataset:PubMed, net:GAT, ratio:20.0, acc: 79.50, bacc: 77.77, f1: 77.91 
+dataset:PubMed, net:SAGE, ratio:20.0, acc: 79.20, bacc: 76.79, f1: 77.36 
+dataset:Amazon-Computers, net:GCN, ratio:20.0, acc: 82.50, bacc: 87.32, f1: 76.48 
+dataset:Amazon-Computers, net:GAT, ratio:20.0, acc: 75.83, bacc: 82.27, f1: 68.12 
+dataset:Amazon-Computers, net:SAGE, ratio:20.0, acc: 85.29, bacc: 89.06, f1: 78.13 
+dataset:CiteSeer, net:GCN, ratio:20.0, acc: 70.90, bacc: 66.29, f1: 66.25 
+dataset:CiteSeer, net:GAT, ratio:20.0, acc: 71.50, bacc: 67.10, f1: 67.08 
+dataset:CiteSeer, net:SAGE, ratio:20.0, acc: 67.40, bacc: 64.46, f1: 64.43 
+dataset:PubMed, net:GCN, ratio:20.0, acc: 80.50, bacc: 78.57, f1: 78.62 
+dataset:PubMed, net:GAT, ratio:20.0, acc: 80.10, bacc: 78.36, f1: 78.36 
+dataset:PubMed, net:SAGE, ratio:20.0, acc: 79.20, bacc: 76.79, f1: 77.36 
+dataset:Amazon-Computers, net:GCN, ratio:20.0, acc: 79.70, bacc: 86.77, f1: 73.94 
+dataset:Amazon-Computers, net:GAT, ratio:20.0, acc: 79.20, bacc: 82.93, f1: 71.43 
+dataset:Amazon-Computers, net:SAGE, ratio:20.0, acc: 83.75, bacc: 89.24, f1: 76.41 
+dataset:CiteSeer, net:GCN, ratio:20.0, acc: 70.30, bacc: 65.79, f1: 65.63 
+dataset:CiteSeer, net:GAT, ratio:20.0, acc: 71.20, bacc: 67.55, f1: 67.34 
+dataset:CiteSeer, net:SAGE, ratio:20.0, acc: 67.70, bacc: 64.74, f1: 64.70 
+dataset:PubMed, net:GCN, ratio:20.0, acc: 79.60, bacc: 77.12, f1: 77.48 
+dataset:PubMed, net:GAT, ratio:20.0, acc: 79.80, bacc: 77.91, f1: 78.00 
+dataset:PubMed, net:SAGE, ratio:20.0, acc: 79.20, bacc: 76.79, f1: 77.36 
+dataset:Amazon-Computers, net:GCN, ratio:20.0, acc: 81.81, bacc: 86.95, f1: 75.98 
+dataset:Amazon-Computers, net:GAT, ratio:20.0, acc: 77.45, bacc: 83.22, f1: 69.54 
+dataset:Amazon-Computers, net:SAGE, ratio:20.0, acc: 83.92, bacc: 89.42, f1: 74.76 
+dataset:CiteSeer, net:GCN, ratio:20.0, acc: 70.40, bacc: 65.82, f1: 65.76 
+dataset:CiteSeer, net:GAT, ratio:20.0, acc: 71.20, bacc: 67.22, f1: 67.08 
+dataset:CiteSeer, net:SAGE, ratio:20.0, acc: 67.40, bacc: 64.46, f1: 64.43 
+dataset:PubMed, net:GCN, ratio:20.0, acc: 80.00, bacc: 77.96, f1: 78.09 
+dataset:PubMed, net:GAT, ratio:20.0, acc: 79.60, bacc: 77.96, f1: 78.02 
+dataset:PubMed, net:SAGE, ratio:20.0, acc: 79.20, bacc: 76.79, f1: 77.36 
+dataset:Amazon-Computers, net:GCN, ratio:20.0, acc: 80.98, bacc: 86.53, f1: 75.23 
+dataset:Amazon-Computers, net:GAT, ratio:20.0, acc: 77.55, bacc: 83.26, f1: 69.10 
+dataset:Amazon-Computers, net:SAGE, ratio:20.0, acc: 83.94, bacc: 89.25, f1: 75.44 
+
+dataset:Cora, net:GCN, ratio:10.0, bacc: 84.79598499850076 $\pm$ 0.26490892079263656, f1: 84.29432411979 $\pm$ 0.2558447068031721 
+dataset:Cora, net:GAT, ratio:10.0, bacc: 83.5302390224561 $\pm$ 0.7642805870261362, f1: 83.27172334441295 $\pm$ 0.8864097119421963 
+dataset:Cora, net:SAGE, ratio:10.0, bacc: 84.19433208316681 $\pm$ 0.4489885275046297, f1: 83.88460111883855 $\pm$ 0.5578638422529416 
+dataset:Cora, net:GCN, ratio:10.0, bacc: 84.95844512459787 $\pm$ 0.32141886071515235, f1: 84.44201377431878 $\pm$ 0.17078957126708397 
+
+
+dataset:CiteSeer, net:GCN, ratio:10.0, bacc: 69.24748275818716 $\pm$ 0.5735279548361958, f1: 69.4603399388234 $\pm$ 0.6132869291613655 
+dataset:CiteSeer, net:GAT, ratio:10.0, bacc: 69.13285741210197 $\pm$ 1.1860244014816792, f1: 69.22225747255902 $\pm$ 1.1007669641932538 
+dataset:CiteSeer, net:SAGE, ratio:10.0, bacc: 68.23106386400585 $\pm$ 0.3986444083430559, f1: 68.03700003043868 $\pm$ 0.37152679131678296 
+dataset:Cora, net:GCN, ratio:10, bacc: 78.58863063470945 $\pm$ 0.40835909347022475, f1: 76.59808666695069 $\pm$ 0.38023452569584026 
+dataset:Cora, net:GCN, ratio:10, bacc: 78.58863063470945 $\pm$ 0.40835909347022475, f1: 76.59808666695069 $\pm$ 0.38023452569584026 
+dataset:CiteSeer, net:GCN, ratio:10, bacc: 65.36831130278325 $\pm$ 0.48085090308177186, f1: 64.58389864956762 $\pm$ 0.5722828950258481 
+dataset:CiteSeer, net:GCN, ratio:10, bacc: 63.473284312075144 $\pm$ 1.0508749614478026, f1: 61.63919966724036 $\pm$ 1.0846126173542283 
+
+dataset:CiteSeer, net:GCN, ratio:10.0, bacc: 63.851115460463305 $\pm$ 0.2821060338162763, f1: 62.08648259253373 $\pm$ 0.37401053816017227 
+dataset:CiteSeer, net:GAT, ratio:10.0, bacc: 62.27865985534322 $\pm$ 0.27719061545099366, f1: 60.27456220381894 $\pm$ 0.35523663196219707 
+dataset:CiteSeer, net:SAGE, ratio:10.0, bacc: 63.69712735188286 $\pm$ 0.8027989209288842, f1: 61.58524421046612 $\pm$ 0.9872226864100574 
